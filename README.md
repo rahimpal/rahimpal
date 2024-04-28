@@ -18,7 +18,15 @@ Provided  assistance across different sectors, including Finance, Banking, and M
 - **Responsibilities**:
   - Monitoring 24+ Banking Applications
   - Monitoring Windows, Linux, AIX, Solaris, and Unix servers
-  - Monitoring parameters such as CPU, memory, disk, alerts, messaging queues, and other SOP-defined parameters
+  - Monitoring parameters such as CPU, memory, disk, alerts, messaging queues, and other SOP-defined parameters.
+
+### Development Experience
+- Developed DELL KACE K1000 helpdesk system
+  - **Backend**: MySQL
+### Patch Management Experience
+- Experience with patch management using DELL KACE K1000 and Ivanti
+  - Patching for offices in North America and APAC regions
+  - Patching system servers in hospitals across North America
 <!---
 rahimpal/rahimpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
