@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rahimpal
-- 👀 I’m interested in IT Infra/Cloud Administration Roles
-- 🌱 I’m currently learning  AWS Cloud
+- 👀 I’m interested in IT Infra/Cloud Administration/IT Support Roles
+- 🌱 I’m  AWS Certified Solutions Architect – Associate (SAA-C03) 
 - 📫 How to reach me rahimpal@gmail.com
-- I have 9+ years experience in IT Operations Role.
+- I have 8+ years experience in IT Operations and IT Support Roles.
 
 <!---
 rahimpal/rahimpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
